@@ -3,7 +3,8 @@
 + Presentation is scheduled on June 11 (Tuesday)
 + Overview of the project here :-)
 
-|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[Text material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) |
+## Useful Links
+|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[Text material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage] | 💦[APP#1] | 💦[APP#2]
 
 ## Lesson Materials
 ### Story 1 text: The Tree of Dreams 
