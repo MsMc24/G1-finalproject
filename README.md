@@ -13,20 +13,19 @@ Context: 3rd grade middle school students high intermediate to advanced.
 
 Pre-reading:
 
-1. Students make word cloud using wordcloud app code. Guess what the story is about.
-2. What do they think Maria’s dream is? What does she need to achieve her dream?
-3. Ask if there are any words they don’t recognize/can’t pronounce.
+1. Students look at word cloud made using wordcloud code. Ss guess what the story is about. What do they think Maria’s dream is? What does she need to achieve her dream?
+2. Ask if there are any words they don’t recognize/can’t pronounce.
 Students use dictionary/tts app code to learn pronunciation and meaning.
-4. T calls on each student: Can you tell me 1 word you didn’t know and it’s meaning?
+3. T calls on each student: Can you tell me 1 word you didn’t know and it’s meaning?
 
 During reading:
 
-5. Students listen (tts?) to the story.
-6. Ss take a quiz.
+4. Students listen (tts?) to the story.
+5. Ss take a quiz.
    
 Post-reading:
 
-7. Ss pick a dream and what they need (4 things?) to achieve it and use hugging face or text to image app to create a story.
+6. Ss pick a dream and what they need (4 things?) to achieve it and use hugging face or text to image app to create a story.
 ## Lesson Materials
 
 ### Story Title: The Tree of Dreams 
