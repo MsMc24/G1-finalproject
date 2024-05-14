@@ -1,8 +1,8 @@
-# Group 1 Final project
+# 📘 Group 1 Final project
 
 Overview
 
-|💦[Emoji](https://gist.github.com/rxaviers/7360908)| 💦[Text material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) |
+|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[Text material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) |
 
 ## Lesson Materials
 ### Story 1 text: The Tree of Dreams 
