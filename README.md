@@ -13,8 +13,8 @@ Context: 3rd grade middle school students high intermediate to advanced.
 
 Pre-reading:
 
-1. Students look at word cloud made using wordcloud code. Ss guess what the story is about. What do they think Maria’s dream is? What does she need to achieve her dream? ☁️☁️☁️
-2. Ask if there are any words they can’t pronounce.❓❓❓
+1. Students look at word cloud made using wordcloud code. Ss guess what the story is about. *What do they think Maria’s dream is? What does she need to achieve her dream? ☁️☁️☁️
+2. Ask if there are any words they can’t pronounce.*❓❓❓
 3. Students look at words using dictionary.📕📕📕
 4. T calls on each student: Can you tell me 1 word you didn’t know how to say and it’s meaning? 🙋🏻🙋🏻🙋🏻
 
