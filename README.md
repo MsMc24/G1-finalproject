@@ -25,7 +25,7 @@ During reading:
    
 Post-reading:
 
-7. Ss pick a dream and what they need (4 things?) to achieve it and use _____ to create a story. 🛌🛌🛌
+7. Ss describe their dream and what they need (4 things?) to achieve it and use ____ to see what images comes from their descriptions. 🛌🛌🛌
    
 ## Lesson Materials
 Computers or tablets, internet
