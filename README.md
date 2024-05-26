@@ -15,21 +15,24 @@ Pre-reading:
 
 1. T asks the Ss to look at word cloud made using wordcloud code. Ss guess what the story is about.
    *What do they think Maria’s dream is? What does she need to achieve her dream?* ☁️☁️☁️
-2. T asks if there are any words Ss can’t pronounce.*❓❓❓
-3. Students look at words using dictionary.📕📕📕
+2. T asks if there are any words Ss can’t pronounce and don't know the meaning of.❓❓❓
+3. Students look up words using dictionary.📕📕📕
 4. T calls on each student: *Can you tell me 1 word you didn’t know how to say and it’s meaning?* 🙋🏻🙋🏻🙋🏻
+5. Ss check for understanding of vocabulary with a synonym activity.
 
 During reading:
 
-5. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼
-6. T has Ss take a quiz.📝📝📝
+6. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼
+7. Ss identify the main idea of the story -- What is Maria's dream?
+8. Ss listen again.
+9. T has Ss take a quiz.📝📝📝
    
 Post-reading:
 
-7. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
+10. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
     and Ss will then use Bing to see what images comes from their descriptions. 🛌🛌🛌
-8. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly.
-9. Ss submit their image and scipt to Padlet for presentations.
+11. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly.
+12. Ss submit their image and scipt to Padlet for presentations.
    
 ## Lesson Materials
 Computers or tablets, internet
