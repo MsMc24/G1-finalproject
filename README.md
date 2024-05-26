@@ -9,7 +9,7 @@
 ## Lesson Plan
 Title: The Tree of Dreams
 
-Context: 3rd grade middle school students high intermediate to advanced.
+Context: 3rd grade middle school students high intermediate
 
 Pre-reading:
 
