@@ -23,8 +23,8 @@ Pre-reading:
 During reading:
 
 6. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼
-7. Ss identify the main idea of the story -- What is Maria's dream?
-8. Ss listen again.
+7. *Listening for the main idea:* Ss identify the main idea of the story -- What is Maria's dream?
+8. Ss listen again. *Listen for details*
 9. T has Ss take a quiz.📝📝📝
    
 Post-reading:
