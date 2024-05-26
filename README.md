@@ -16,9 +16,10 @@ Pre-reading:
 1. T asks the Ss to look at word cloud made using wordcloud code. Ss guess what the story is about.
    *What do they think Maria’s dream is? What does she need to achieve her dream?* ☁️☁️☁️
 2. T asks if there are any words Ss can’t pronounce and don't know the meaning of.❓❓❓
-3. Students look up words using dictionary.📕📕📕
-4. T calls on each student: *Can you tell me 1 word you didn’t know how to say and it’s meaning?* 🙋🏻🙋🏻🙋🏻
-5. Ss check for understanding of vocabulary with a synonym activity.
+3. Ss look at list of words the T took from the wordcloud.
+4. Students look up any of the words they don't know using dictionary widget.📕📕📕
+5. T calls on each student: *Can you tell me 1 word you didn’t know and it’s meaning?* 🙋🏻🙋🏻🙋🏻
+6. Ss check for understanding of target vocabulary with a synonym activity.
 
 During reading:
 
