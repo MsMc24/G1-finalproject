@@ -26,6 +26,7 @@ During reading:
 6. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼
 7. *Listening for the main idea:* Ss identify the main idea of the story -- What is Maria's dream?
 8. *Listen for details:* Ss listen again. T has Ss take a quiz.📝📝📝
+9. *Listen & Recall*: Ss are given pictures that match events from the story and Ss try to put them in the correct order and then retell the story to a partner.
    
 Post-reading:
 
@@ -33,7 +34,7 @@ Post-reading:
     and Ss will then use Bing to see what images comes from their descriptions. 🛌🛌🛌
 11. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly.
 12. Ss submit their image and scipt to Padlet for presentations.
-   
+
 ## Lesson Materials
 Computers or tablets, internet
 
