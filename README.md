@@ -11,6 +11,8 @@ Title: The Tree of Dreams
 
 Context: 3rd grade middle school students high intermediate
 
+Time: 60 minutes
+
 Pre-reading:
 
 1. T asks the Ss to look at word cloud made using wordcloud code. Ss guess what the story is about.
@@ -33,7 +35,7 @@ Post-reading:
 10. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
     and Ss will then use Bing to see what images comes from their descriptions. 🛌🛌🛌
 11. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly.
-12. Ss submit their image and scipt to Padlet for presentations.
+12. Ss submit their image and scipt to Padlet for presentations at the start of the next class.
 
 ## Lesson Materials
 Computers or tablets, internet
