@@ -16,8 +16,8 @@ Time: 80 minutes (split into two periods)
 Pre-reading: (25 minutes)
 
 1. T asks the Ss to look at pictures from the story and a word cloud made using wordcloud app. (2 minutes)
-2. Ss guess and predict what the story is about. (3 minutes)
-   *What do they think Maria’s dream is? What does she need to achieve her dream?* ☁️☁️☁️
+2. Ss guess and predict what the story is about. 
+   *What do they think Maria’s dream is? What does she need to achieve her dream?* ☁️☁️☁️ (3 minutes)
 3. T shows students the target vocabulary.❓❓❓ (3 minutes)
 4. Students look up any of the words they don't know using dictionary widget with a group.📕📕📕 (7 minutes)
 5. T calls on a student per word: *Can you tell me 1 word you didn’t know and it’s meaning?* 🙋🏻🙋🏻🙋🏻 (5 minutes)
