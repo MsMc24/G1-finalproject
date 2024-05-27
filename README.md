@@ -15,27 +15,28 @@ Time: 60 minutes
 
 Pre-reading:
 
-1. T asks the Ss to look at word cloud made using wordcloud code. Ss guess what the story is about.
+1. T asks the Ss to look at pictures from the story and a word cloud made using wordcloud app.
+2. Ss guess and predict what the story is about.
    *What do they think Maria’s dream is? What does she need to achieve her dream?* ☁️☁️☁️
-2. T asks if there are any words Ss can’t pronounce and don't know the meaning of.❓❓❓
-3. Ss look at list of words the T took from the wordcloud.
-4. Students look up any of the words they don't know using dictionary widget.📕📕📕
-5. T calls on each student: *Can you tell me 1 word you didn’t know and it’s meaning?* 🙋🏻🙋🏻🙋🏻
-6. Ss check for understanding of target vocabulary with a synonym activity.
+3. T shows students the target vocabulary.❓❓❓
+4. T asks if there are any words Ss can’t pronounce and don't know the meaning of.
+5. Students look up any of the words they don't know using dictionary widget.📕📕📕
+6. T calls on each student: *Can you tell me 1 word you didn’t know and it’s meaning?* 🙋🏻🙋🏻🙋🏻
+7. Ss check for understanding of target vocabulary with a synonym activity.
 
 During reading:
 
-6. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼
-7. *Listening for the main idea:* Ss identify the main idea of the story -- What is Maria's dream?
-8. *Listen for details:* Ss listen again. T has Ss take a quiz.📝📝📝
-9. *Listen & Recall*: Ss are given pictures that match events from the story and Ss try to put them in the correct order and then retell the story to a partner.
+8. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼
+9. *Listening for the main idea:* Ss identify the main idea of the story -- What is Maria's dream?
+10. *Listen for details:* Ss listen again. T has Ss take a comprehension quiz.📝📝📝
+11. *Listen & Recall*: Ss are given sentences that match events from the story and try to put them in the correct order with a partner. (jigsaw sentence rearrangement app)
    
 Post-reading:
 
-10. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
+12. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
     and Ss will then use Bing to see what images comes from their descriptions. 🛌🛌🛌
-11. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly.
-12. Ss submit their image and scipt to Padlet for presentations at the start of the next class.
+13. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly.
+14. Ss submit their image and scipt to Padlet for presentations at the start of the next class.
 
 ## Lesson Materials
 Computers or tablets, internet
