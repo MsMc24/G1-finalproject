@@ -1,0 +1,7 @@
+ipywidgets
+Pydictionary
+wordcloud
+matplotlib
+gradio 
+gtts
+notebook
