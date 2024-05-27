@@ -37,6 +37,7 @@ Post-reading: (35 minutes)
 12. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly. (15 minutes)
 
 HOMEWORK: 
+
 13. Ss submit their image and scipt to Padlet for presentations at the start of the next class.
 
 ## Lesson Materials
