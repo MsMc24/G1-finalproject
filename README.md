@@ -11,32 +11,33 @@ Title: The Tree of Dreams
 
 Context: 3rd grade middle school students high intermediate
 
-Time: 60 minutes
+Time: 80 minutes (split into two periods)
 
-Pre-reading:
+Pre-reading: (25 minutes)
 
-1. T asks the Ss to look at pictures from the story and a word cloud made using wordcloud app.
-2. Ss guess and predict what the story is about.
+1. T asks the Ss to look at pictures from the story and a word cloud made using wordcloud app. (2 minutes)
+2. Ss guess and predict what the story is about. (3 minutes)
    *What do they think Maria’s dream is? What does she need to achieve her dream?* ☁️☁️☁️
-3. T shows students the target vocabulary.❓❓❓
-4. T asks if there are any words Ss can’t pronounce and don't know the meaning of.
-5. Students look up any of the words they don't know using dictionary widget.📕📕📕
-6. T calls on each student: *Can you tell me 1 word you didn’t know and it’s meaning?* 🙋🏻🙋🏻🙋🏻
-7. Ss check for understanding of target vocabulary with a synonym activity.
+3. T shows students the target vocabulary.❓❓❓ (3 minutes)
+4. Students look up any of the words they don't know using dictionary widget with a group.📕📕📕 (7 minutes)
+5. T calls on a student per word: *Can you tell me 1 word you didn’t know and it’s meaning?* 🙋🏻🙋🏻🙋🏻 (5 minutes)
+6. Ss check for understanding of target vocabulary with a synonym activity. (5 minutes)
 
-During reading:
+During reading: (20 minutes)
 
-8. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼
-9. *Listening for the main idea:* Ss identify the main idea of the story -- What is Maria's dream?
-10. *Listen for details:* Ss listen again. T has Ss take a comprehension quiz.📝📝📝
-11. *Listen & Recall*: Ss are given sentences that match events from the story and try to put them in the correct order with a partner. (jigsaw sentence rearrangement app)
+7. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼 (2 minutes)
+8. *Listening for the main idea:* Ss identify the main idea of the story -- What is Maria's dream? (3 minutes)
+9. *Listen for details:* Ss listen again. T has Ss take a comprehension quiz.📝📝📝 (7 minutes)
+10. *Listen & Recall*: Ss are given sentences that match events from the story and try to put them in the correct order with a partner. (jigsaw sentence rearrangement app) (7 minutes)
    
-Post-reading:
+Post-reading: (35 minutes)
 
-12. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
-    and Ss will then use Bing to see what images comes from their descriptions. 🛌🛌🛌
-13. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly.
-14. Ss submit their image and scipt to Padlet for presentations at the start of the next class.
+11. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
+    and Ss will then use Bing to see what images comes from their descriptions. 🛌🛌🛌 (20 minutes)
+12. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly. (15 minutes)
+
+HOMEWORK: 
+13. Ss submit their image and scipt to Padlet for presentations at the start of the next class.
 
 ## Lesson Materials
 Computers or tablets, internet
