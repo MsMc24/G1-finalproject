@@ -13,7 +13,7 @@ Context: 3rd grade middle school students high intermediate
 
 Time: 85 minutes (split into two periods)
 
-Pre-reading: (25 minutes)
+Pre (25 minutes)
 
 1. T asks the Ss to look at pictures from the story and a word cloud made using wordcloud app. (2 minutes)
 2. Ss guess and predict what the story is about. 
@@ -23,14 +23,14 @@ Pre-reading: (25 minutes)
 5. T calls on a student per word: *Can you tell me 1 word you didn’t know and it’s meaning?* 🙋🏻🙋🏻🙋🏻 (5 minutes)
 6. Ss check for understanding of target vocabulary with a synonym activity. (5 minutes)
 
-During reading: (25 minutes)
+During: (25 minutes)
 
 7. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼 (3 minutes)
 8. *Listening for the main idea:* Ss identify the main idea of the story -- What is Maria's dream? (3 minutes)
 9. *Listen for details:* T reads the comprehension questions first then Ss listen again. T has Ss take a comprehension quiz.📝📝📝 (10 minutes)
 10. *Listen & Recall*: Ss are given sentences that match events from the story and try to put them in the correct order with a partner. (jigsaw sentence rearrangement app) (8 minutes)
    
-Post-reading: (35 minutes)
+Post: (35 minutes)
 
 11. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
     and Ss will then use Bing to see what images comes from their descriptions. 🛌🛌🛌 (20 minutes)
