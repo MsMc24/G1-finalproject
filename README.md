@@ -4,9 +4,9 @@
 + Overview of the project here :-)
 
 ## Useful Links
-|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Pronunciation](https://huggingface.co/spaces/MsMc24/pronunciation)💦[APP#2 - Synonyms Activity](https://huggingface.co/spaces/MsMc24/Synonym_matching_activity) | 
+|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Pronunciation](https://huggingface.co/spaces/MsMc24/pronunciation) | 💦[APP#2 - Synonyms Activity](https://huggingface.co/spaces/MsMc24/SynonymMatchingActivity) | 
 
-## Lesson Plan
+## Lesson Plan 
 Title: The Tree of Dreams
 
 Context: 3rd grade middle school students high intermediate
