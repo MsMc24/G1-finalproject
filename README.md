@@ -13,6 +13,8 @@ Context: 3rd grade middle school students high intermediate
 
 Time: 85 minutes (split into two periods)
 
+Target Vocabulary: Vibrant depicting admired anxious skeptics achievement beacon dismissed thrilled
+
 Pre (25 minutes)
 
 1. T asks the Ss to look at pictures from the story and a word cloud made using wordcloud app. (2 minutes)
