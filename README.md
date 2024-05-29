@@ -7,7 +7,7 @@
 |💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Pronunciation](https://msmc24-pronunciation.hf.space/) | 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) | 
 
 ## Lesson Plan 
-Title: The Tree of Dreams https://msmc24-taskkk.hf.space/
+Title: The Tree of Dreams
 
 Context: 3rd grade middle school students high intermediate
 
