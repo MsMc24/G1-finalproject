@@ -11,7 +11,7 @@ Title: The Tree of Dreams
 
 Context: 3rd grade middle school students high intermediate
 
-Time: 85 minutes (split into two periods)
+Time: 85 minutes 
 
 Target Vocabulary: Vibrant depicting admired anxious skeptics achievement beacon dismissed thrilled
 
