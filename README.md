@@ -7,43 +7,189 @@
 |💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Pronunciation](https://msmc24-pronunciation.hf.space/) | 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) | 💦[APP#3 - True and False]( https://msmc24-TrueAndFalse.hf.space/)
 
 ## Lesson Plan 
-Title: The Tree of Dreams
+<table>
+  <tr>
+   <td colspan="2" ><strong>The Tree of Dreams</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Grade/Proficiency Level</strong>
+<p>
+Middle school 3<sup>rd</sup> grade / Intermediate-High
+   </td>
+   <td><strong>Time Frame</strong>
+<p>
+85 minutes
+   </td>
+  </tr>
+</table>
 
-Context: 3rd grade middle school students high intermediate
 
-Time: 85 minutes 
 
-Target Vocabulary: Vibrant depicting admired anxious skeptics achievement beacon dismissed thrilled
+<table>
+  <tr>
+   <td><strong>Learning Objectives</strong>
+   </td>
+   <td>
+<ul>
 
-Pre (25 minutes)
+<li>By the end of the class, Ss will be able to listen for specific information in a story.
 
-1. T asks the Ss to look at pictures from the story and a word cloud made using wordcloud app. (2 minutes)
-2. Ss guess and predict what the story is about. 
-   *What do they think Maria’s dream is? What does she need to achieve her dream?* ☁️☁️☁️ (3 minutes)
-3. T shows students the target vocabulary.❓❓❓ (3 minutes)
-4. Students look up any of the words they don't know using dictionary widget with a group.📕📕📕 (7 minutes)
-5. T calls on a student per word: *Can you tell me 1 word you didn’t know and it’s meaning?* 🙋🏻🙋🏻🙋🏻 (5 minutes)
-6. Ss check for understanding of target vocabulary with a synonym activity. (5 minutes)
+<li>By the end of the class, Ss will be able to identify new vocabulary and its meaning.
 
-During: (25 minutes)
+<li>By the end of the class, Ss will be able to generate an image using their own descriptive words.
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Target Vocabulary</strong>
+   </td>
+   <td>vibrant, depicting, admired, anxious, skeptics, achievement, thrilled
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Lesson Materials</strong>
+   </td>
+   <td>Computer or tablet, internet, projector
+   </td>
+  </tr>
+</table>
 
-7. T has Ss listen to the story using TTS.👂🏼👂🏼👂🏼 (3 minutes)
-8. *Listening for the main idea:* Ss identify the main idea of the story -- What is Maria's dream? (3 minutes)
-9. *Listen for details:* T reads the comprehension questions first then Ss listen again. T has Ss take a comprehension quiz.📝📝📝 (10 minutes)
-10. *Listen & Recall*: Ss are given sentences that match events from the story and try to put them in the correct order with a partner. (jigsaw sentence rearrangement app) (8 minutes)
-   
-Post: (35 minutes)
 
-11. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provide by the teacher)
-    and Ss will then use Bing to see what images comes from their descriptions. 🛌🛌🛌 (20 minutes)
-12. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly. (15 minutes)
 
-HOMEWORK: 
+<table>
+  <tr>
+   <td><strong>Time</strong>
+   </td>
+   <td><strong>Activities</strong>
+   </td>
+   <td><strong>Skills & App</strong>
+   </td>
+   <td><strong>Rationale</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>25
+<p>
+5
+<p>
+8
+<p>
+7
+<p>
+5
+   </td>
+   <td><strong><span style="text-decoration:underline;">Pre-listening</span></strong>
+<p>
+1. T asks the Ss to look at pictures from the story and generates a word cloud for Ss made using Wordcloud app and asks Ss to guess and predict what the story is about☁️☁️☁️
+<p>
+<em>What do they think Maria’s dream is? What does she need to achieve her dream?</em> 
+<p>
+2. T previews  the target vocabulary with pictures and then shows the words and definitions using Flashcard App and Ss review the synonyms using synonym dictionary application.❓❓❓
+<p>
+3. Ss check the pronunciation of target words using the Text-to-Speech widget. 📕📕📕
+<p>
+4. Ss do a synonym activity to review the target vocabulary 🙋🏻🙋🏻🙋🏻
+   </td>
+   <td>[S]
+<p>
+Wordcloud App
+<p>
+[S]
+<p>
+synonym dictionary application
+<p>
+[L]
+<p>
+TTS
+<p>
+[S]
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>25
+<p>
+5
+<p>
+3
+<p>
+10
+<p>
+7
+   </td>
+   <td><strong><span style="text-decoration:underline;">During listening</span></strong>
+<p>
+5. First Listen: T has Ss listen to the story using TTS for the main idea.T asks Ss question: What is Maria's dream? Did you guess correctly? 👂🏼👂🏼👂🏼
+<p>
+6. 2nd Listen: T reviews T/F questions and Ss listen to the story again to answer true and false questions.  👂🏼👂🏼👂🏼
+<p>
+7. Third Listen: T reviews comprehension questions for review quis and then Ss listen to the story again for details Ss take a quiz.👂🏼👂🏼👂🏼
+<p>
+8. Recall: Ss are given sentences that match events from the story and try to put them in the correct order with a partner using Jigsaw sentence rearrangement app.📝📝📝
+   </td>
+   <td>[L]
+<p>
+TTS
+<p>
+[L]
+<p>
+T/F Quiz
+<p>
+[L]
+<p>
+Comprehension Quiz
+<p>
+[S]
+<p>
+Jigsaw sentence rearrangement app
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>35
+<p>
+20
+<p>
+15
+   </td>
+   <td><strong><span style="text-decoration:underline;">Post-listening</span></strong>
+<p>
+9. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provided by the teacher) and Ss will then use AI Generator to see if the images match  their descriptions. 🛌🛌🛌
+<p>
+10. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly. 🛌🛌🛌
+   </td>
+   <td>[W]
+<p>
+AI generator
+<p>
+        [W]
+<p>
+Grammarly
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
 
-13. Ss submit their image and scipt to Padlet for presentations at the start of the next class.
+
+
+<table>
+  <tr>
+   <td>Homework
+   </td>
+  </tr>
+  <tr>
+   <td>Ss submit their image and script to Padlet for presentations at the start of the next class.
+   </td>
+  </tr>
+</table>
 
 ## Lesson Materials
-Computers or tablets, internet
+Computers or tablets, internet, Projector
 
 ### Story Title: The Tree of Dreams 
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt)
