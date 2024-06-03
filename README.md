@@ -4,7 +4,7 @@
 + Overview of the project here :-)
 
 ## Useful Links
-|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Pronunciation](https://msmc24-pronunciation.hf.space/) | 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) | 
+|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Pronunciation](https://msmc24-pronunciation.hf.space/) | 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) | 💦[APP#3 - True and False]( https://msmc24-TrueAndFalse.hf.space/)
 
 ## Lesson Plan 
 Title: The Tree of Dreams
