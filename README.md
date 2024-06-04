@@ -35,7 +35,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 
 <li>By the end of the class, Ss will be able to listen for specific information in a story.
 
-<li>By the end of the class, Ss will be able to identify new vocabulary and its meaning.
+<li>By the end of the class, Ss will be able to recall information from the story.
 
 <li>By the end of the class, Ss will be able to generate an image using their own descriptive words.
 </li>
