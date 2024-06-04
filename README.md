@@ -107,7 +107,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
    </td>
   </tr>
   <tr>
-   <td>Ss write a script using a template provided by the teacher in class  and Ss check it with Grammarly. Ss then submit their image and script to Padlet for presentations at the start of the next class.
+   <td>Ss write a script (using the template provided by the teacher in class)  and Ss check it with Grammarly. Ss then submit their image and script to Padlet for presentations at the start of the next class.
    </td>
   </tr>
 </table>
