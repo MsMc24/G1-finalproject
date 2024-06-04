@@ -66,7 +66,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
   <tr>
    <td><strong><span style="text-decoration:underline;">(16m) Pre-listening</span></strong>
 <p>
-(3m) 1. T asks the Ss to look at pictures from the story and generates a word cloud for Ss made using Wordcloud app and asks Ss to guess and predict what the story is about☁️☁️☁️
+(3m) 1. T asks the Ss to look at pictures from the story and T generates a word cloud for Ss (made using Wordcloud app) and asks Ss to guess and predict what the story is about☁️☁️☁️
 <p>
 <em>What do they think Maria’s dream is? What does she need to achieve her dream?</em> 
 <p>
