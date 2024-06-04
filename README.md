@@ -19,7 +19,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
    </td>
    <td><strong>Time Frame</strong>
 <p>
-85 minutes
+50 minutes
    </td>
   </tr>
 </table>
@@ -60,117 +60,41 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 
 <table>
   <tr>
-   <td><strong>Time</strong>
-   </td>
    <td><strong>Activities</strong>
-   </td>
-   <td><strong>Skills & App</strong>
-   </td>
-   <td><strong>Rationale</strong>
    </td>
   </tr>
   <tr>
-   <td>25
+   <td><strong><span style="text-decoration:underline;">(16m) Pre-listening</span></strong>
 <p>
-5
-<p>
-8
-<p>
-7
-<p>
-5
-   </td>
-   <td><strong><span style="text-decoration:underline;">Pre-listening</span></strong>
-<p>
-1. T asks the Ss to look at pictures from the story and generates a word cloud for Ss made using Wordcloud app and asks Ss to guess and predict what the story is about☁️☁️☁️
+(3m) 1. T asks the Ss to look at pictures from the story and generates a word cloud for Ss made using Wordcloud app and asks Ss to guess and predict what the story is about☁️☁️☁️
 <p>
 <em>What do they think Maria’s dream is? What does she need to achieve her dream?</em> 
 <p>
-2. T previews  the target vocabulary with pictures and then shows the words and definitions using Flashcard App and Ss review the synonyms using synonym dictionary application.❓❓❓
+(5m) 2. T previews  the target vocabulary with pictures and then shows the words and definitions using Flashcard App and Ss review the synonyms using synonym dictionary application.❓❓❓
 <p>
-3. Ss check the pronunciation of target words using the Text-to-Speech widget. 📕📕📕
+(3m) 3. T shows Ss the pronunciation of target words using the Text-to-Speech widget. 📕📕📕
 <p>
-4. Ss do a synonym activity to review the target vocabulary 🙋🏻🙋🏻🙋🏻
-   </td>
-   <td>[S]
-<p>
-Wordcloud App
-<p>
-[S]
-<p>
-synonym dictionary application
-<p>
-[L]
-<p>
-TTS
-<p>
-[S]
-   </td>
-   <td>
+(5m) 4. T calls on Ss to type in the matching synonym to the word written in the app as a review. 🙋🏻🙋🏻🙋🏻
    </td>
   </tr>
   <tr>
-   <td>25
+   <td><strong><span style="text-decoration:underline;">(20m) During listening</span></strong>
 <p>
-5
+(4m) 5. First Listen: T uses TTS to have Ss listen to the story and listen for the main idea.T asks Ss question: What is Maria's dream? Did you guess correctly? 👂🏼👂🏼👂🏼
 <p>
-3
+(6m) 6. 2nd Listen: T reviews T/F questions and Ss listen to the story again and then Ss answer true and false questions.  👂🏼👂🏼👂🏼
 <p>
-10
+(6m) 7. Third Listen: T reviews comprehension questions for the review quiz and then Ss listen to the story again for details. Then Ss take a quiz.👂🏼👂🏼👂🏼
 <p>
-7
-   </td>
-   <td><strong><span style="text-decoration:underline;">During listening</span></strong>
-<p>
-5. First Listen: T has Ss listen to the story using TTS for the main idea.T asks Ss question: What is Maria's dream? Did you guess correctly? 👂🏼👂🏼👂🏼
-<p>
-6. 2nd Listen: T reviews T/F questions and Ss listen to the story again to answer true and false questions.  👂🏼👂🏼👂🏼
-<p>
-7. Third Listen: T reviews comprehension questions for review quis and then Ss listen to the story again for details Ss take a quiz.👂🏼👂🏼👂🏼
-<p>
-8. Recall: Ss are given sentences that match events from the story and try to put them in the correct order with a partner using Jigsaw sentence rearrangement app.📝📝📝
-   </td>
-   <td>[L]
-<p>
-TTS
-<p>
-[L]
-<p>
-T/F Quiz
-<p>
-[L]
-<p>
-Comprehension Quiz
-<p>
-[S]
-<p>
-Jigsaw sentence rearrangement app
-   </td>
-   <td>
+(4m) 8. Speed Recall: In groups of 3, Ss are given sentences that match events from the story and try to put them in the correct order using Jigsaw sentence rearrangement app.📝📝📝
    </td>
   </tr>
   <tr>
-   <td>35
+   <td><strong><span style="text-decoration:underline;">(14m) Post-listening</span></strong>
 <p>
-20
+(12m) 9. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provided by the teacher) and Ss will then use AI Generator to see if the images match  their descriptions. 🛌🛌🛌
 <p>
-15
-   </td>
-   <td><strong><span style="text-decoration:underline;">Post-listening</span></strong>
-<p>
-9. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provided by the teacher) and Ss will then use AI Generator to see if the images match  their descriptions. 🛌🛌🛌
-<p>
-10. T has Ss write a script using a template provided by the teacher and Ss check it with Grammarly. 🛌🛌🛌
-   </td>
-   <td>[W]
-<p>
-AI generator
-<p>
-        [W]
-<p>
-Grammarly
-   </td>
-   <td>
+(2m) 10. T shows Ss the script template for their homework assignment. 🛌🛌🛌
    </td>
   </tr>
 </table>
@@ -183,7 +107,7 @@ Grammarly
    </td>
   </tr>
   <tr>
-   <td>Ss submit their image and script to Padlet for presentations at the start of the next class.
+   <td>Ss write a script using a template provided by the teacher in class  and Ss check it with Grammarly. Ss then submit their image and script to Padlet for presentations at the start of the next class.
    </td>
   </tr>
 </table>
