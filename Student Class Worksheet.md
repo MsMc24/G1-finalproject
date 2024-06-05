@@ -7,13 +7,14 @@
 DIRECTIONS:
 + The teacher will create the wordcloud for the class on the computer screen.
 
-**REMEMBER** for all the activities today, you will work with your partner on a shared computer or tablet :)
+**⭐️REMEMBER⭐️** for all the activities today, you will work with your partner on a shared computer or tablet :)
 
 💦[APP#1 - Flashcards]() |
 
 DIRECTIONS: 
 + Click the above link for APP#1 and review the target vocabulary with your partner. 
 + You can see meaning, pictures, and listen for pronunciation.
+---
 
 ## 🤡🤡🤡Now Let's do a synonym activity with a partner to check if we can remember the meaning of our target vocabulary!
 
@@ -24,12 +25,34 @@ DIRECTIONS:
 + Use the target vocabulary list and talk with your partner about which word you think it is a synonym.
 + Each target vocabulary word is used once, type in lowercase.
 + Type the word in the blank that matches the synonym that is shown.
+---
+  
+## 🎧🎧🎧First Listen: Time to listen to the story together and Listen for the main idea!!! 
+---
 
+## 🎧🎧🎧Second Listen: Listening for details. (Remember to raise hand if you need the teacher to stop the recording)
+
+*Preview the true or false questions, then listen and answer with your partner after clicking the link.*
+1. The villagers of Lila all believed in the power of the Tree of Dreams.
+2. Maria's art teacher, Mr. Lopez, did not support her artistic dream.
+3. Maria used leaves, petals, and coal pieces to create her artwork before getting professional art supplies.
+4. Maria painted a picture of the Tree of Dreams for the national art competition.
+5. After Maria won the art competition, the village continued to doubt the power of the Tree of Dreams.
+   
 💦[APP#3 - True and False]( https://msmc24-TrueAndFalse.hf.space/) |
 DIRECTIONS:
 + Click the above link for APP#3
 + Selection the true or false button.
 + Click submit to see your score and any mistakes.
+---  
+
+## 🎧🎧🎧Third Listen: Listening for review. (Remember to raise hand if you need the teacher to stop the recording)
+
+*Preview the true or false questions, then listen and answer with your partner after clicking the link.*
+What is the name of the main character?
+What is the name of the village?
+What did Maria have a passion for?
+Your dreams can come true with belief, hard work, and a little bit of what?'
 
 💦[APP#4 - Review Quiz](msmc24-REVIEWQUIZ.hf.space/) |
 DIRECTIONS:
@@ -37,13 +60,16 @@ DIRECTIONS:
 + use lower case letters when answering the questions.
 + answer with one word only.
 + Click submit to see your score.
+---
+## 🔢🔢🔢 Sentence Speed Recall: Now that you've listened three times, let's see what you can remember with a group of 4.
 
-💦[APP#5 - Sentence Order]()|
+💦[APP#5 - Sentence Order]()| Try to put the sentences in the correct order as fast as possible!
 DIRECTIONS:
 + Click the above link for APP#5
 + The sentences will be displayed in a random order.
 + Put the correct order by entering that order of letters for each sentence.
 + Click submit and it will show the story if you got it correct.
+---
 
 ## 🛌🛌🛌What's your dream?
 
@@ -56,6 +82,7 @@ Use this **prompt template** to help you create your own: "Draw a tall/short boy
 Then insert your prompt in this magical website and save the image to your computer or tablet.
 
 *Teacher Example:* "Draw a tall girl with black hair, dark eyes, a small nose, and purple clothes. She is holding a pencil, a book, and is near a chalkboard. She wants to be an art teacher. Art supplies in the background. pretty colors. In the style of realism. anime/ neon/ punk/realism/cartoon
+---
 
 ## 👩🏼‍🏫👩🏼‍🏫👩🏼‍🏫 Homework: Time to write our scripts for presentations!
 
