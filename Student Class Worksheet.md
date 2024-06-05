@@ -7,7 +7,7 @@
 ## ☁️☁️☁️Wordcloud - Let's Predict the story by looking at the picture below and by looking at key words in the cloud below (the most important keywords are the 4 biggest, do you see them?):
 
 DIRECTIONS:
-+ The teacher will create the wordcloud for the class and share it on the computer screen.
++ Look at the teacher's computer screen.
    
 ![download](https://github.com/MsMc24/G1-finalproject/assets/161448192/864c4320-3db4-4143-ab10-ba6503224197)
 
