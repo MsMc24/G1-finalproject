@@ -18,7 +18,7 @@ DIRECTIONS:
 
 ---
 ## ⚡️⚡️⚡️Now let's look at the flashcards to get to know our target vocabulary!
-###Target words: vibrant, depicting, admired, anxious, skeptics, achievement, thrilled
+### Target words: vibrant, depicting, admired, anxious, skeptics, achievement, thrilled
 
 💦[APP#1 - Flashcards]() |
 
