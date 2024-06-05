@@ -4,9 +4,10 @@
 + Overview of the project here :-)
 
 ## Useful Links
-|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Pronunciation](https://msmc24-pronunciation.hf.space/) | 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) | 💦[APP#3 - True and False]( https://msmc24-TrueAndFalse.hf.space/) |💦[APP#4 - Review Quiz](msmc24-REVIEWQUIZ.hf.space/) |💦[APP#5 - Sentence Order]()
+|💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Flashcards](https://msmc24-FLASHCARDS.hf.space/) | 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) | 💦[APP#3 - True and False]( https://msmc24-TrueAndFalse.hf.space/) |💦[APP#4 - Review Quiz](msmc24-REVIEWQUIZ.hf.space/) |💦[APP#5 - Sentence Order]()
 
 ## Lesson Plan 
+
 <table>
   <tr>
    <td colspan="2" ><strong>The Tree of Dreams</strong>
@@ -54,6 +55,12 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
    <td>Computer or tablet, internet, projector
    </td>
   </tr>
+  <tr>
+   <td><strong>Class Arrangement</strong>
+   </td>
+   <td>Students sit in pairs with a shared tablet or computer.
+   </td>
+  </tr>
 </table>
 
 
@@ -64,29 +71,31 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
    </td>
   </tr>
   <tr>
-   <td><strong><span style="text-decoration:underline;">(16m) Pre-listening</span></strong>
+   <td><strong><span style="text-decoration:underline;">(15m) Pre-listening</span></strong>
 <p>
-(3m) 1. T asks the Ss to look at pictures from the story and T generates a word cloud for Ss (made using Wordcloud app) and asks Ss to guess and predict what the story is about☁️☁️☁️
+(2m) 1. T asks the Ss to look at pictures from the story and the title and asks Ss to guess and predict what the story is about☁️☁️☁️
 <p>
-<em>What do they think Maria’s dream is? What does she need to achieve her dream?</em> 
+(2m) 2. T generates a word cloud for Ss (made using Wordcloud app). Tt emphasizes that the biggest words are the most mentioned keywords in the story. 
 <p>
-(5m) 2. T previews  the target vocabulary with pictures and then shows the words and definitions using Flashcard App and Ss review the synonyms using synonym dictionary application.❓❓❓
+<em>What do they think Maria’s dream job is (related to <strong><span style="text-decoration:underline;">art</span></strong>)? What does she need to achieve her dream?</em> 
 <p>
-(3m) 3. T shows Ss the pronunciation of target words using the Text-to-Speech widget. 📕📕📕
+(6m) 3. <em>T previews the target vocabulary and then Ss look up the meaning with their partner. Ss can check pronunciation as needed</em>.📕📕📕
 <p>
-(5m) 4. T calls on Ss to type in the matching synonym to the word written in the app as a review. 🙋🏻🙋🏻🙋🏻
+(5m) 4. In pairs, Ss try to match the target words to the synonyms written in the app as a review. 🙋🏻🙋🏻🙋🏻
    </td>
   </tr>
   <tr>
-   <td><strong><span style="text-decoration:underline;">(20m) During listening</span></strong>
+   <td><strong><span style="text-decoration:underline;">(21m) During listening</span></strong>
 <p>
 (4m) 5. First Listen: T uses TTS to have Ss listen to the story and listen for the main idea.T asks Ss question: What is Maria's dream? Did you guess correctly? 👂🏼👂🏼👂🏼
 <p>
-(6m) 6. 2nd Listen: T reviews T/F questions and Ss listen to the story again and then Ss answer true and false questions.  👂🏼👂🏼👂🏼
+(6m) 6. *2nd Listen: T reviews T/F questions and Ss listen to the story again and then Ss answer true and false questions with their partner.  👂🏼👂🏼👂🏼
 <p>
-(6m) 7. Third Listen: T reviews comprehension questions for the review quiz and then Ss listen to the story again for details. Then Ss take a quiz.👂🏼👂🏼👂🏼
+(6m) 7. Third Listen: T reviews comprehension questions for the review quiz and then Ss listen to the story again for details. Then Ss take a quiz with their partner.👂🏼👂🏼👂🏼
 <p>
-(4m) 8. Speed Recall: In groups of 3, Ss are given sentences that match events from the story and try to put them in the correct order using Jigsaw sentence rearrangement app.📝📝📝
+(Teacher can re-play the listening text when Ss ask during step 6-7)
+<p>
+(5m) 8. Speed Recall: In groups of 4, Ss are given sentences that match events from the story and try to put them in the correct order using Jigsaw sentence rearrangement app.📝📝📝
    </td>
   </tr>
   <tr>
@@ -103,20 +112,18 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 
 <table>
   <tr>
-   <td>Homework
+   <td><strong>Homework</strong>
    </td>
   </tr>
   <tr>
-   <td>Ss write a script (using the template provided by the teacher in class)  and Ss check it with Grammarly. Ss then submit their image and script to Padlet for presentations at the start of the next class.
+   <td>Ss write a script using a template (which was provided by the teacher in class) and Ss check it with Grammarly. Ss will submit their image and script to Padlet for presentations at the start of the next class.
    </td>
   </tr>
 </table>
 
-## Lesson Materials
-Computers or tablets, internet, Projector
 
 ##Tips:
-*Run the codes before class so that all the apps are ready to be shown on the projector.
+*Check the links before class so that all the apps are ready to be used by the students.
 *Students may need help with the apps.
 *Pair/Group struggling students with higher-proficiency students.
 
