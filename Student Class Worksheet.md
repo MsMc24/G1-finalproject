@@ -2,10 +2,14 @@
   
 + [Listening text](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) |
 
-## ☁️☁️☁️Wordcloud - Let's Predict the story looking at key words in the cloud (the most inmportant keywords are the 4 biggest, do you see them?) and by looking at the pictures below.
+## ☁️☁️☁️Wordcloud - Let's Predict the story by looking at the pictures and by looking at key words in the cloud (the most important keywords are the 4 biggest, do you see them?):
 
 DIRECTIONS:
-+ The teacher will create the wordcloud for the class on the computer screen.
++ The teacher will create the wordcloud for the class and share it on the computer screen.  
+![download](https://github.com/MsMc24/G1-finalproject/assets/161448192/864c4320-3db4-4143-ab10-ba6503224197)
+
+![download (2)](https://github.com/MsMc24/G1-finalproject/assets/161448192/095d7e90-232a-45a6-8e71-120afcaec174)
+
 
 **⭐️REMEMBER⭐️** for all the activities today, you will work with your partner on a shared computer or tablet :)
 
@@ -82,6 +86,9 @@ Use this **prompt template** to help you create your own: "Draw a tall/short boy
 Then insert your prompt in this magical website and save the image to your computer or tablet.
 
 *Teacher Example:* "Draw a tall girl with black hair, dark eyes, a small nose, and purple clothes. She is holding a pencil, a book, and is near a chalkboard. She wants to be an art teacher. Art supplies in the background. pretty colors. In the style of realism. anime/ neon/ punk/realism/cartoon
+
+![download (1)](https://github.com/MsMc24/G1-finalproject/assets/161448192/9ef639a7-9dec-47e0-8df3-d8193ee0a464)
+
 ---
 
 ## 👩🏼‍🏫👩🏼‍🏫👩🏼‍🏫 Homework: Time to write our scripts for presentations!
