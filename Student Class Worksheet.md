@@ -2,7 +2,7 @@
   
 + [Listening text](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) |
 
-💦[APP#1 - Pronunciation](https://msmc24-pronunciation.hf.space/) |
+💦[APP#1 - Flashcards]() |
 DIRECTIONS:
 
 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) |
