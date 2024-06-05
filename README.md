@@ -122,7 +122,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 </table>
 
 
-##Tips:
+## Tips:
 *Check the links before class so that all the apps are ready to be used by the students.
 *Students may need help with the apps.
 *Pair/Group struggling students with higher-proficiency students.
