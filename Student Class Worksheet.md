@@ -13,6 +13,10 @@ DIRECTIONS:
 
 **⭐️REMEMBER⭐️** for all the activities today, you will work with your partner on a shared computer or tablet :)
 
+---
+## ⚡️⚡️⚡️Now let's look at the flashcards to get to know our target vocabulary!
+###Target words: vibrant, depicting, admired, anxious, skeptics, achievement, thrilled
+
 💦[APP#1 - Flashcards]() |
 
 DIRECTIONS: 
