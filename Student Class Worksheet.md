@@ -4,7 +4,7 @@
   
 + [Listening text](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) |
 
-## ☁️☁️☁️Wordcloud - Let's Predict the story by looking at the picture in the image link above and by looking at key words in the cloud (the most important keywords are the 4 biggest, do you see them?):
+## ☁️☁️☁️Wordcloud - Let's Predict the story by looking at the picture below and by looking at key words in the cloud below (the most important keywords are the 4 biggest, do you see them?):
 
 DIRECTIONS:
 + The teacher will create the wordcloud for the class and share it on the computer screen.
