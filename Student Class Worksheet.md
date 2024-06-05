@@ -10,7 +10,7 @@ DIRECTIONS:
 + The teacher will create the wordcloud for the class and share it on the computer screen.  
 ![download](https://github.com/MsMc24/G1-finalproject/assets/161448192/864c4320-3db4-4143-ab10-ba6503224197)
 
-![download (2)](https://github.com/MsMc24/G1-finalproject/assets/161448192/095d7e90-232a-45a6-8e71-120afcaec174)
+![tree](https://github.com/MsMc24/G1-finalproject/assets/161448192/4afb0ca7-7f88-4da1-954a-e55109f917f2)
 
 
 **⭐️REMEMBER⭐️** for all the activities today, you will work with your partner on a shared computer or tablet :)
@@ -59,10 +59,10 @@ DIRECTIONS:
 ## 🎧🎧🎧Third Listen: Listening for review. (Remember to raise hand if you need the teacher to stop the recording)
 
 *Preview the true or false questions, then listen and answer with your partner after clicking the link.*
-What is the name of the main character?
-What is the name of the village?
-What did Maria have a passion for?
-Your dreams can come true with belief, hard work, and a little bit of what?'
+1. What is the name of the main character?
+2. What is the name of the village?
+3. What did Maria have a passion for?
+4. Your dreams can come true with belief, hard work, and a little bit of what?'
 
 💦[APP#4 - Review Quiz](msmc24-REVIEWQUIZ.hf.space/) |
 DIRECTIONS:
@@ -93,7 +93,7 @@ Then insert your prompt in this magical website and save the image to your compu
 
 *Teacher Example:* "Draw a tall girl with black hair, dark eyes, a small nose, and purple clothes. She is holding a pencil, a book, and is near a chalkboard. She wants to be an art teacher. Art supplies in the background. pretty colors. In the style of realism. anime/ neon/ punk/realism/cartoon
 
-![download (1)](https://github.com/MsMc24/G1-finalproject/assets/161448192/9ef639a7-9dec-47e0-8df3-d8193ee0a464)
+![art](https://github.com/MsMc24/G1-finalproject/assets/161448192/420b6abd-7880-4746-ae7c-6e74901ba133)
 
 ---
 
