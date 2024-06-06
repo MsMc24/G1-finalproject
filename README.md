@@ -6,6 +6,9 @@
 ## Useful Links
 |💦[Emoji](https://gist.github.com/rxaviers/7360908) | 💦[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💦[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) | 💦[CodePage](https://github.com/MsMc24/G1-finalproject/blob/main/FPG01.ipynb) | 💦[APP#1 - Flashcards](https://msmc24-FLASHCARDS.hf.space/) | 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) | 💦[APP#3 - True and False]( https://msmc24-TrueAndFalse.hf.space/) |💦[APP#4 - Review Quiz](http://msmc24-REVIEWQUIZ.hf.space/) |💦[APP#5 - Sentence Order]() |🎨[Magical AI Image Generator](https://magicstudio.com/ai-art-generator/)|📕[Grammarly](https://www.grammarly.com/grammar-check) |👩🏼‍🎓[Student Page](https://github.com/MsMc24/G1-finalproject/blob/main/Student%20Class%20Worksheet.md)
 
+## Introduction and Conclusion
+[Read here](https://github.com/MsMc24/G1-finalproject/blob/main/IntroductionAndConclusion.md)
+
 ## Lesson Plan 
 
 <table>
