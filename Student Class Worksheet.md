@@ -12,7 +12,7 @@ DIRECTIONS:
    
 ![download](https://github.com/MsMc24/G1-finalproject/assets/161448192/864c4320-3db4-4143-ab10-ba6503224197)
 
-### Look at the keywords. (The most important keywords are the 4 biggest, do you see them?)
+### Look at the keywords. (The most important keywords are the 4 biggest, do you see them?) Who is the main character? What is her dream?
 
 ![download (2)](https://github.com/MsMc24/G1-finalproject/assets/161448192/5e880375-dddb-45b5-b3b5-8353eaba0c98)
 
