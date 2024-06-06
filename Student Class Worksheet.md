@@ -4,12 +4,15 @@
   
 + [Listening text](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt) |
 
-## ☁️☁️☁️Wordcloud - Let's Predict the story by looking at the picture below and by looking at key words in the cloud below (the most important keywords are the 4 biggest, do you see them?):
+## ☁️☁️☁️Wordcloud - Let's Predict the story by looking at the picture below and by looking at key words in the cloud below:
 
 DIRECTIONS:
 + Look at the teacher's computer screen.
++ What do you think the story might be about based on the pictures and title?
    
 ![download](https://github.com/MsMc24/G1-finalproject/assets/161448192/864c4320-3db4-4143-ab10-ba6503224197)
+
+### Look at the keywords. (The most important keywords are the 4 biggest, do you see them?)
 
 ![download (2)](https://github.com/MsMc24/G1-finalproject/assets/161448192/5e880375-dddb-45b5-b3b5-8353eaba0c98)
 
@@ -17,9 +20,20 @@ DIRECTIONS:
 **⭐️REMEMBER⭐️** for all the activities today, you will work with your partner on a shared computer or tablet :)
 
 ---
-## ⚡️⚡️⚡️Now let's look at the flashcards to get to know our target vocabulary!
+## ⚡️⚡️⚡️Let's see if you know any of our target vocabulary!
 *Do you recognize any of the target words below? What do they mean?*
-#### Target words: vibrant, dismissed, depicting, admired, anxious, skeptics, achievement, thrilled
+```
+vibrant (adj)
+achievement (n)
+depicting (v)
+admired (v)
+anxious (adj)
+thrilled (adj)
+skeptics (n)
+dismissed (v)
+
+```
+## We'll use the flashcard app to learn the meaning of our new target words. I will show you the first one :)
 
 💦[APP#1 - Flashcards](https://msmc24-FLASHCARDS.hf.space/) |
 
@@ -27,6 +41,8 @@ DIRECTIONS:
 + Click the above link for APP#1 and review the target vocabulary with your partner.
 + Select the word from word list and click submit.
 + You can see meaning, pictures, and listen for pronunciation.
+
+  ### **Do you remember the meaning?**
 ---
 
 ## 🤡🤡🤡Now Let's do a synonym activity with a partner to check if we can remember the meaning of our target vocabulary!
@@ -41,6 +57,7 @@ DIRECTIONS:
 ---
   
 ## 🎧🎧🎧First Listen: Time to listen to the story together and Listen for the main idea!!! 
+*What is Maria's dream?*
 ---
 
 ## 🎧🎧🎧Second Listen: Listening for details. (Remember to raise hand if you need the teacher to stop the recording)
@@ -73,6 +90,8 @@ DIRECTIONS:
 + use lower case letters when answering the questions.
 + answer with one word only.
 + Click submit to see your score.
+  
+  **Now that you've taken the quiz, let's review the answers as a class** :)
 ---
 ## 🔢🔢🔢 Sentence Speed Recall: Now that you've listened three times, let's see what you can remember with a group of 4.
 
@@ -86,13 +105,16 @@ DIRECTIONS:
 
 ## 🛌🛌🛌What's your dream?
 
-Describe your dream and see what image appears when you paste it into the [Magical AI Image Generator](https://magicstudio.com/ai-art-generator/) and then present to the class.
-
+Now it's your turn! What is your dream? Do you have a dream job? <br>
 *DIRECTIONS:*
++ Describe your dream job (using the template below)
++ See what image appears when you paste it into the [Magical AI Image Generator](https://magicstudio.com/ai-art-generator/).
++ Once you have an image you like, save it to the tablet or computer.
+
 
 Use this **prompt template** to help you create your own: "Draw a tall/short boy/girl with ____, ______,______, and _______. She/He is holding a _______, a ______, and is near ________. He/She wants to be a ______. ______ in the background. _____ colors. In the style of ______ anime/ neon/ punk/ realism/ cartoon"
 
-Then insert your prompt in this magical website and save the image to your computer or tablet.
+Then insert your prompt in the website above and save the image to your computer or tablet.
 
 *Teacher Example:* "Draw a tall girl with black hair, dark eyes, a small nose, and purple clothes. She is holding a pencil, a book, and is near a chalkboard. She wants to be an art teacher. Art supplies in the background. pretty colors. In the style of realism. anime/ neon/ punk/realism/cartoon
 
@@ -102,7 +124,9 @@ Then insert your prompt in this magical website and save the image to your compu
 
 ## 👩🏼‍🏫👩🏼‍🏫👩🏼‍🏫 Homework: Time to write our scripts for presentations!
 
-*DIRECTIONS:* tell us about your dream using the script below then check your grammar with [Grammarly](https://www.grammarly.com/grammar-check)
+*DIRECTIONS:* For homework: 
++ Tell us about your dream using the script below
++ Check your grammar with [Grammarly](https://www.grammarly.com/grammar-check)
 
 **Script template:** My dream is to be a __________. I have wanted this dream for _____ years. To become a _________, I need ________, _________, _______, and a little magic. There are two reasons, I want to become a ______. First, ______. Second, _______. I admire my dream job because _______ and __________.
 
