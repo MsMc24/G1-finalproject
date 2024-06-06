@@ -45,7 +45,7 @@ DIRECTIONS:
 
 ## 🎧🎧🎧Second Listen: Listening for details. (Remember to raise hand if you need the teacher to stop the recording)
 
-*Preview the true or false questions, then listen and answer with your partner after clicking the link.*
+*Preview the true or false questions, then listen and answer with your partner after clicking the link.* The teacher will pause the the listening after the first two questions.
 1. The villagers of Lila all believed in the power of the Tree of Dreams.
 2. Maria's art teacher, Mr. Lopez, did not support her artistic dream.
 3. Maria used leaves, petals, and coal pieces to create her artwork before getting professional art supplies.
