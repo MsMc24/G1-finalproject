@@ -84,7 +84,7 @@ DIRECTIONS:
 
 ## 🛌🛌🛌What's your dream?
 
-Describe your dream and see what image appears and then present to the class.
+Describe your dream and see what image appears when you paste it into the [Magical AI Image Generator](https://magicstudio.com/ai-art-generator/) and then present to the class.
 
 *DIRECTIONS:*
 
@@ -100,7 +100,7 @@ Then insert your prompt in this magical website and save the image to your compu
 
 ## 👩🏼‍🏫👩🏼‍🏫👩🏼‍🏫 Homework: Time to write our scripts for presentations!
 
-*DIRECTIONS:* tell us about your dream using the script below then check your grammar with grammarly.
+*DIRECTIONS:* tell us about your dream using the script below then check your grammar with [Grammarly](https://www.grammarly.com/grammar-check)
 
 **Script template:** My dream is to be a __________. I have wanted this dream for _____ years. To become a _________, I need ________, _________, _______, and a little magic. There are two reasons, I want to become a ______. First, ______. Second, _______. I think my dream job is really _________ adjective because __________.
 
