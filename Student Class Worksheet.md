@@ -50,7 +50,7 @@ DIRECTIONS:
 4. Maria painted a picture of the Tree of Dreams for the national art competition.
 5. After Maria won the art competition, the village continued to doubt the power of the Tree of Dreams.
    
-💦[APP#3 - True and False]( https://msmc24-TrueAndFalse.hf.space/) |
+💦[APP#3 - True and False](http://msmc24-TrueAndFalse.hf.space/) |
 DIRECTIONS:
 + Click the above link for APP#3
 + Selection the true or false button.
@@ -65,7 +65,7 @@ DIRECTIONS:
 3. What did Maria have a passion for?
 4. Your dreams can come true with belief, hard work, and a little bit of what?'
 
-💦[APP#4 - Review Quiz](msmc24-REVIEWQUIZ.hf.space/) |
+💦[APP#4 - Review Quiz](http://msmc24-REVIEWQUIZ.hf.space/) |
 DIRECTIONS:
 + Click the above link for APP#4
 + use lower case letters when answering the questions.
