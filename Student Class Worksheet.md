@@ -61,7 +61,7 @@ DIRECTIONS:
 
 ## 🎧🎧🎧Third Listen: Listening for review. (Remember to raise hand if you need the teacher to stop the recording)
 
-*Preview the true or false questions, then listen and answer with your partner after clicking the link.*
+*Preview the comprehension questions, then listen and answer with your partner after clicking the link.*
 1. What is the name of the main character?
 2. What is the name of the village?
 3. What did Maria have a passion for?
