@@ -24,7 +24,8 @@ DIRECTIONS:
 💦[APP#1 - Flashcards]() |
 
 DIRECTIONS: 
-+ Click the above link for APP#1 and review the target vocabulary with your partner. 
++ Click the above link for APP#1 and review the target vocabulary with your partner.
++ Select the word from word list and click submit.
 + You can see meaning, pictures, and listen for pronunciation.
 ---
 
