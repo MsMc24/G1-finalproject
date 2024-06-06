@@ -36,7 +36,7 @@ DIRECTIONS:
 DIRECTIONS:
 + Click the above link for APP#2
 + Use the target vocabulary list and talk with your partner about which word you think is a synonym.
-+ Each target vocabulary word is used once, type in the lowercase.
++ Each target vocabulary word is used once, type in lowercase.
 + Type the word in the blank that matches the synonym that is shown.
 ---
   
