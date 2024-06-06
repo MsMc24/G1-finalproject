@@ -65,7 +65,7 @@ DIRECTIONS:
 1. What is the name of the main character?
 2. What is the name of the village?
 3. What did Maria have a passion for?
-4. Your dreams can come true with belief, hard work, and a little bit of what?'
+4. Your dreams can come true with belief, hard work, and a little bit of what?
 
 💦[APP#4 - Review Quiz](http://msmc24-REVIEWQUIZ.hf.space/) |
 DIRECTIONS:
