@@ -79,7 +79,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 <p>
 <em>What do they think Maria’s dream job is (related to <strong><span style="text-decoration:underline;">art</span></strong>)? What does she need to achieve her dream?</em> 
 <p>
-(6m) 3. <em>T previews the target vocabulary and then Ss look up the meaning with their partner. Ss can check pronunciation as needed</em>.📕📕📕
+(6m) 3. <em>T previews the target vocabulary, shows Ss how to use app with the first word, and then Ss look up the meaning/review with their partner. Ss can check pronunciation as needed</em>.📕📕📕
 <p>
 (5m) 4. In pairs, Ss try to match the target words to the synonyms written in the app as a review. 🙋🏻🙋🏻🙋🏻
    </td>
