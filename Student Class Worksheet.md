@@ -102,8 +102,8 @@ Then insert your prompt in this magical website and save the image to your compu
 
 *DIRECTIONS:* tell us about your dream using the script below then check your grammar with [Grammarly](https://www.grammarly.com/grammar-check)
 
-**Script template:** My dream is to be a __________. I have wanted this dream for _____ years. To become a _________, I need ________, _________, _______, and a little magic. There are two reasons, I want to become a ______. First, ______. Second, _______. I think my dream job is really _________ adjective because __________.
+**Script template:** My dream is to be a __________. I have wanted this dream for _____ years. To become a _________, I need ________, _________, _______, and a little magic. There are two reasons, I want to become a ______. First, ______. Second, _______. I admire my dream job because _______ and I think it's an achievement because __________.
 
-*Teacher Example:* My name is Sarah. My dream is to be an art teacher. I have wanted this dream for 4 years. To become an art teacher, I need a lot of art supplies, energy, hard work, and a little bit of magic. There are two reasons I want to become an art teacher. First, I like to draw. Second, it seems like a good achievement. I think my dream job is really good because every school needs art.
+*Teacher Example:* My name is Sarah. My dream is to be an art teacher. I have wanted this dream for 4 years. To become an art teacher, I need a lot of art supplies, energy, hard work, and a little bit of magic. There are two reasons I want to become an art teacher. First, I like to draw. Second, it seems like a good achievement. I admire my dream job because it's hard to do and I think it's an achievement because every school needs art.
 
 You can add more details if you want! 💪. At the start of the next class, you will add your image and script to Padlet for Presentations.
