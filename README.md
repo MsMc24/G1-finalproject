@@ -1,5 +1,5 @@
 # 📘 Group 1 Final project 
-+ Last updated (0605 by MsMc24)
++ Last updated (0606 by MsMc24)
 + Presentation is scheduled on June 11 (Tuesday)
 + Overview of the project here :-)
 
