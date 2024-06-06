@@ -19,7 +19,7 @@ DIRECTIONS:
 ---
 ## ⚡️⚡️⚡️Now let's look at the flashcards to get to know our target vocabulary!
 *Do you recognize any of the target words below? What do they mean?*
-#### Target words: vibrant, depicting, admired, anxious, skeptics, achievement, thrilled
+#### Target words: vibrant, dismissed, depicting, admired, anxious, skeptics, achievement, thrilled
 
 💦[APP#1 - Flashcards](https://msmc24-FLASHCARDS.hf.space/) |
 
