@@ -99,7 +99,7 @@ DIRECTIONS:
 ---
 ## 🔢🔢🔢 Sentence Speed Recall: Now that you've listened three times, let's see what you can remember with a group of 4.
 
-💦[APP#5 - Sentence Order]() | Try to put the sentences in the correct order as fast as possible!
+💦[APP#5 - Sentence Order](http://msmc24-SentenceOrder.hf.space/) | Try to put the sentences in the correct order as fast as possible!
 DIRECTIONS:
 + Click the above link for APP#5
 + The sentences will be displayed in a random order.
