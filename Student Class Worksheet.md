@@ -45,15 +45,19 @@ DIRECTIONS:
   ### **Do you remember the meaning?**
 ---
 
-## 🤡🤡🤡Now Let's do a synonym activity with a partner to check if we can remember the meaning of our target vocabulary!
+## 🤡🤡🤡Now that we've reviewed as a class- Let's do a synonym activity with a partner to check if we can remember the meaning of our target vocabulary!
 
 💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatching.hf.space/) |
 
 DIRECTIONS:
-+ Click the above link for APP#2
-+ Use the target vocabulary list and talk with your partner about which word you think is a synonym.
-+ Each target vocabulary word is used once, type in lowercase.
-+ Type the word in the blank that matches the synonym that is shown.
+
++ Click the above link for APP#2. 
++ Select a word from the target word list.
++ Then click 'show me options'
++ Talk with your partner about which word you think is a synonym from the options.
++ type the word that you think is a synonym of your target word
++ Then click 'submit answer'
++ Once you've done all the target words, click 'complete and show total score.'
 ---
   
 ## 🎧🎧🎧First Listen: Time to listen to the story together and Listen for the main idea!!! 
