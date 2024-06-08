@@ -47,7 +47,7 @@ DIRECTIONS:
 
 ## 🤡🤡🤡Now Let's do a synonym activity with a partner to check if we can remember the meaning of our target vocabulary!
 
-💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatchingActivity.hf.space/) |
+💦[APP#2 - Synonyms Activity](https://msmc24-SynonymMatching.hf.space/) |
 
 DIRECTIONS:
 + Click the above link for APP#2
