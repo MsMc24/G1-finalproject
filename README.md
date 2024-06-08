@@ -49,7 +49,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
   <tr>
    <td><strong>Target Vocabulary</strong>
    </td>
-   <td>vibrant, depicting, admired, anxious, skeptics, achievement, thrilled
+   <td>vibrant, depicting, admired, anxious, skeptics, achievement, thrilled, dismissed
    </td>
   </tr>
   <tr>
@@ -76,13 +76,13 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
   <tr>
    <td><strong><span style="text-decoration:underline;">(15m) Pre-listening</span></strong>
 <p>
-(2m) 1. T asks the Ss to look at pictures from the story and the title and asks Ss to guess and predict what the story is about☁️☁️☁️
+(2m) 1. T asks the Ss to look at the title and pictures from the story and asks Ss to guess and predict what the story is about.☁️☁️☁️
 <p>
-(2m) 2. T generates a word cloud for Ss (made using Wordcloud app). Tt emphasizes that the biggest words are the most mentioned keywords in the story. 
+(2m) 2. T generates a word cloud for Ss (made using Wordcloud app). It emphasizes that the biggest words are the most mentioned keywords in the story. 
 <p>
-<em>What do they think Maria’s dream job is (related to <strong><span style="text-decoration:underline;">art</span></strong>)? What does she need to achieve her dream?</em> 
+<em>What do you think Maria’s dream job is (related to <strong><span style="text-decoration:underline;">art</span></strong>)? What does she need to achieve her dream?</em> 
 <p>
-(6m) 3. <em>T previews the target vocabulary, shows Ss how to use app with the first word, and then Ss look up the meaning/review with their partner. Ss can check pronunciation as needed</em>.📕📕📕
+(6m) 3. T previews the target vocabulary and asks what words Ss may know, and then Ss can look up the meaning and review with their partner on the flashcard app. Ss can check pronunciation as needed.📕📕📕 T asks Ss for meaning.
 <p>
 (5m) 4. In pairs, Ss try to match the target words to the synonyms written in the app as a review. 🙋🏻🙋🏻🙋🏻
    </td>
@@ -92,19 +92,19 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 <p>
 (4m) 5. First Listen: T uses TTS to have Ss listen to the story and listen for the main idea.T asks Ss question: What is Maria's dream? Did you guess correctly? 👂🏼👂🏼👂🏼
 <p>
-(6m) 6. *2nd Listen: T reviews T/F questions and Ss listen to the story again and then Ss answer true and false questions with their partner.  👂🏼👂🏼👂🏼
+(6m) 6. 2nd Listen: T reviews T/F questions, and shows Ss the app. Then Ss listen to the story again (stopping halfway through to let Ss answer before finishing) and then Ss answer true and false questions with their partner.  👂🏼👂🏼👂🏼
 <p>
-(6m) 7. Third Listen: T reviews comprehension questions for the review quiz and then Ss listen to the story again for details. Then Ss take a quiz with their partner.👂🏼👂🏼👂🏼
+(6m) 7. Third Listen: T reviews comprehension questions for the review quiz and then Ss listen to the story again for details. Then Ss take a quiz with their partner.👂🏼👂🏼👂🏼 T briefly goes over the answers with whole class.
 <p>
-(Teacher can re-play the listening text when Ss ask during step 6-7)
+(Teacher can replay the listening text when Ss ask during step 6-7)
 <p>
-(5m) 8. Speed Recall: In groups of 4, Ss are given sentences that match events from the story and try to put them in the correct order using Jigsaw sentence rearrangement app.📝📝📝
+(6m) 8. Speed Recall: In groups of 4, Ss are given sentences that match events from the story and try to put them in the correct order using Jigsaw sentence rearrangement app.📝📝📝
    </td>
   </tr>
   <tr>
    <td><strong><span style="text-decoration:underline;">(14m) Post-listening</span></strong>
 <p>
-(12m) 9. T instructs Ss to describe their dream and what they need (4 things) to achieve it (using a prompt template provided by the teacher) and Ss will then use AI Generator to see if the images match  their descriptions. 🛌🛌🛌
+(12m) 9. T instructs Ss to describe their dream to their partners and what they may need (4 things) to achieve it. Then Ss will write a prompt (using a prompt template provided by the teacher) and use an AI Generator to see if the image generated matches their descriptions. 🛌🛌🛌
 <p>
 (2m) 10. T shows Ss the script template for their homework assignment. 🛌🛌🛌
    </td>
@@ -123,6 +123,10 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
    </td>
   </tr>
 </table>
+
+
+
+
 
 
 ## ⭐️Tips:
