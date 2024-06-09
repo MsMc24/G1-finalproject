@@ -16,21 +16,21 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 </table>
 
 
- 
-
 
 <table>
   <tr>
    <td><strong>Learning Objectives</strong>
    </td>
    <td>
-        ●           By the end of the class, Ss will be able to listen for specific information in a story.
-<p>
+<ul>
 
-        ●           By the end of the class, Ss will be able to recall information from the story.
-<p>
+<li>By the end of the class, Ss will be able to listen for specific information in a story.
 
-        ●           By the end of the class, Ss will be able to generate an image using their own descriptive words.
+<li>By the end of the class, Ss will be able to recall information from the story.
+
+<li>By the end of the class, Ss will be able to generate an image using their own descriptive words.
+</li>
+</ul>
    </td>
   </tr>
   <tr>
@@ -53,8 +53,6 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
   </tr>
 </table>
 
-
- 
 
 
 <table>
@@ -281,7 +279,7 @@ As further scaffolding, T will replay the listening text when Ss ask.
    </td>
    <td>[W]
 <p>
-<em>Grammarly (hw)</em>
+<em>Grammarly (HW)</em>
    </td>
    <td>10. Showing the Ss a T example will lower their affective filters while writing and preparing for the presentation.
    </td>
