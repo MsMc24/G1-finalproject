@@ -36,7 +36,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
   <tr>
    <td><strong>Target Vocabulary</strong>
    </td>
-   <td>vibrant, depicting, admired, anxious, skeptics, achievement, thrilled
+   <td>vibrant, depicting, admired, anxious, skeptics, achievement, thrilled, dismissed
    </td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
   <tr>
    <td><strong>Class Arrangement</strong>
    </td>
-   <td>Students sit in pairs with a shared tablet or computer. (Rationale: Pairwork and shared devices ensure that Ss interact.
+   <td>Students sit in pairs with a shared tablet or computer. (Rationale: Pairwork and shared devices ensure that Ss interact.)
    </td>
   </tr>
 </table>
