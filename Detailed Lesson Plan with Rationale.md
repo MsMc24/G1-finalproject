@@ -48,7 +48,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
   <tr>
    <td><strong>Class Arrangement</strong>
    </td>
-   <td>Students sit in pairs with a shared tablet or computer.
+   <td>Students sit in pairs with a shared tablet or computer. (Rationale: Pairwork and shared devices ensure that Ss interact.
    </td>
   </tr>
 </table>
