@@ -133,6 +133,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 + Check the links before class so that all the apps are ready to be used by the students.
 + Students may need help with the apps.
 + Pair/Group struggling students with higher-proficiency students.
++ Check with other Python-users if you're uncertain how to make a code work.
 
 ### ⭐️Story Title: The Tree of Dreams 
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story01.txt)
