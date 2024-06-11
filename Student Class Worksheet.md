@@ -78,6 +78,8 @@ DIRECTIONS:
 + Click the above link for APP#3
 + Selection the true or false button.
 + Click submit to see your score and any mistakes.
+
+  If the answer if false, discuss with your partner what information to change to make it true :)
 ---  
 
 ## 🎧🎧🎧Third Listen: Listening for review. (Remember to raise hand if you need the teacher to stop the recording)
