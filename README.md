@@ -9,7 +9,7 @@
 ## ⭐️Introduction and Conclusion
 [Read here](https://github.com/MsMc24/G1-finalproject/blob/main/IntroductionAndConclusion.md)
 
-## ⭐️Lesson Plan 
+## ⭐️Lesson Plan (Please click the link above for the detailed lesson plan with rationale)
 
 <table>
   <tr>
