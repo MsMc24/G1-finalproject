@@ -171,7 +171,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 <p>
 6
    </td>
-   <td>6. 2nd Listen: T reviews T/F questions and Ss listen to the story again and then Ss answer true and false questions with their partner.  👂🏼👂🏼👂🏼
+   <td>6. 2nd Listen: T reviews T/F questions and Ss listen to the story again and then Ss answer true and false questions with their partner.  If the answer if false, Ss discuss with partner what information to change to make it true 👂🏼👂🏼👂🏼
    </td>
    <td>[L, S]
 <p>
