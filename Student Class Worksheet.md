@@ -113,7 +113,7 @@ Now it's your turn! What is your dream? Do you have a dream job? <br>
 *DIRECTIONS:*
 + Describe your dream job with a partner.
 + Write a prompt for the ai image generator (using the template below)
-+ See what image appears when you paste it into the [Magical AI Image Generator](https://magicstudio.com/ai-art-generator/).
++ See what image appears when you type it into the [Magical AI Image Generator](https://magicstudio.com/ai-art-generator/).
 + Adjust the description as needed.
 + Once you have an image you like, save it to the tablet or computer.
 
