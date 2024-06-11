@@ -92,7 +92,7 @@ Middle school 3<sup>rd</sup> grade / Intermediate-High
 <p>
 (4m) 5. First Listen: T uses TTS to have Ss listen to the story and listen for the main idea.T asks Ss question: What is Maria's dream? Did you guess correctly? 👂🏼👂🏼👂🏼
 <p>
-(6m) 6. 2nd Listen: T reviews T/F questions, and shows Ss the app. Then Ss listen to the story again (stopping halfway through to let Ss answer before finishing) and then Ss answer true and false questions with their partner.  👂🏼👂🏼👂🏼
+(6m) 6. 2nd Listen: T reviews T/F questions, and shows Ss the app. Then Ss listen to the story again (stopping halfway through to let Ss answer before finishing) and then Ss answer true and false questions with their partner. If the answer if false, Ss discuss with partner what information to change to make it true 👂🏼👂🏼👂🏼
 <p>
 (6m) 7. Third Listen: T reviews comprehension questions for the review quiz and then Ss listen to the story again for details. Then Ss take a quiz with their partner.👂🏼👂🏼👂🏼 T briefly goes over the answers with whole class.
 <p>
