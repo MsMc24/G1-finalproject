@@ -1,5 +1,5 @@
 # 📘 Group 1 Final project 
-+ Last updated (0606 by MsMc24)
++ Last updated (0611 by MsMc24)
 + Presentation is scheduled on June 11 (Tuesday)
 + Our listening and speaking lesson focuses on giving students the tools to interact with the listening text and their classmates. :-)
 
