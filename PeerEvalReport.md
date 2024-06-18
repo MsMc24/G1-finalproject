@@ -13,7 +13,7 @@
 ## [1] Quantitative summary of each aspect (Q1~Q10)
 
 |Questions|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Total|
-|--|--|--|--|--|--|--|--|--|--|--|--|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Category|Alignment|Integration|Engagement|Stimulation|Support|Accessibility|Integration|Autonomy|Adaptability|Presenation||
 |Mean|5.56|5.31|5.13|5.37|5.38|5.19|5.31|5.19|5.31||
 
