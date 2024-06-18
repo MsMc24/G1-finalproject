@@ -2,7 +2,7 @@
 
 + First and foremost, I want to commend you all on the innovative and engaging way you integrated technology into language learning. The use of various apps to make lessons interactive and fun has clearly made a positive impact. Your approach to scaffolding was particularly effective, providing clear guidance and making it easier for students to engage with the material.
 
-+ (MK316: Personally, it was great to see you providing language prompts for student activities when asking them to use generative AIs. This is an important aspect when teachers employ generative AI tools in their classrooms. Also, considering it was the first presentation and there might have been a lack of time, thank you for preparing so well.👍👍👍)
++ (MK316: Personally, it was great to see you providing language prompts for student activities when asking them to use generative AIs. This is an important aspect when teachers employ generative AI tools in their classrooms. Also, considering it was the first presentation and there might have been a lack of time, thank you 😍 for preparing so well.👍👍👍)
 
 + However, there were some insightful suggestions that could further enhance your teaching approach. For instance, it was noted that having students read questions aloud during presentations could increase engagement and confidence. While the nervousness of a mock lesson might have affected this aspect, it's something to consider incorporating more deliberately in future sessions. It was also suggested that showing how students can apply and participate with the apps during the lessons could be more illustrative. Furthermore, providing more concrete online feedback mechanisms post-class would support continuous learning and engagement.
 
