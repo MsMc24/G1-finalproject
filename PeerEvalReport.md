@@ -10,7 +10,7 @@
 
 + In summary, your group did an excellent job at demonstrating the potential of AI and coding in education. There is always room for growth, and the constructive feedback provided is invaluable for refining your teaching strategies. Keep exploring and innovating—your dedication is paving the way for exciting educational experiences. Great job, Group 1!
 
-## Quantitative summary of each aspect (Q1~Q10)
+## [1] Quantitative summary of each aspect (Q1~Q10)
 
 |Questions|Q1|Q2|Q3|Q4|Q5|Q6|Q7|Q8|Q9|Q10|Total|
 |--|--|--|--|--|--|--|--|--|--|--|--|
@@ -19,7 +19,7 @@
 
 ![Score summary](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/G1-score.png)
 
-## Essay feedback 1: _What do you think are the most valuable lessons from that group's presentation?_
+## [2] Essay feedback 1: _What do you think are the most valuable lessons from that group's presentation?_
 
 ||Comments|
 |--|--|
@@ -39,7 +39,7 @@
 |14|I think Engagement was the most impressive part as the teacher kept making sure with questions if the students understood and the students followed well after the instructions.|
 |15|학생들을 위한 Scaffolding이 잘 설계되어 있었다. Students 페이지를 통해서 학생들이 해야할 것들이 한 눈에 보이고 각 앱을 어떻게 사용하는지 instruction이 잘 적혀 있었고 선생님도 데모를 통해 잘 보여주었다.|
 
-## Essay feedback 2: _What aspects should the presenting group have paid more attention to?_
+## [3] Essay feedback 2: _What aspects should the presenting group have paid more attention to?_
 
 ||Comments|
 |--|--|
