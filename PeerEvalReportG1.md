@@ -1,4 +1,4 @@
-# 💙 Peer Evaluation & Presentation Review for Group 1 (0619, by MK316)
+# 💙💙💙 Peer Evaluation & Presentation Review for Group 1 (0619, by MK316)
 
 + Based on the peer feedback received after teaching the digital literacy and English education course, it is clear that the innovative use of coding to integrate familiar games like Hangman into the curriculum was highly appreciated. The students found the incorporation of a Hangman game, coded for classroom use, particularly engaging. This approach not only made the lessons more interactive but also effectively drew student participation, especially in group activities.
 
@@ -42,8 +42,7 @@
 |15|학생들이 퀴즈를 푸는 활동이 많아서 스스로 수업내용을 이해하고 있는지에 대해 점검해보고, 틀린 부분을 명확히 알고 질문할 수 있다는 점이 Group1이 발표한 수업의 장점인 것 같다.|
 |16|코딩을 통해 핵맨게임으로 단어학습을 할 수 있도록 한 점이 굉장히 신선하고 흥미로웠다.|
 
-||단어 학습에 행맨을 활용한 것이 창의적이라 느껴졌다. 칠판에 직접적으로 그림을 그려 진행하던 행맨을 코딩을 통해 디지털 도구로 만든 점이 좋았다.|
+|17|단어 학습에 행맨을 활용한 것이 창의적이라 느껴졌다. 칠판에 직접적으로 그림을 그려 진행하던 행맨을 코딩을 통해 디지털 도구로 만든 점이 좋았다.|
 
-![image](https://github.com/MsMc24/G1-finalproject/assets/99416359/5aaaa8f0-3712-4ca9-924f-df8c5a3a4503)
 
 
