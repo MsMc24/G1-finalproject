@@ -1,4 +1,5 @@
-# 💚💙 (Update completed 11:50AM) Peer Evaluation & Presentation Review for Group 1 (June 19, by MK316)
+# 💚💙 Peer Evaluation & Presentation Review for Group 1
+(Updates completed; 11:50AM, June 19, by MK316)
 
 + First and foremost, I want to commend you all on the innovative and engaging way you integrated technology into language learning. The use of various apps to make lessons interactive and fun has clearly made a positive impact. Your approach to scaffolding was particularly effective, providing clear guidance and making it easier for students to engage with the material. I also appreciated that your group started the design focusing on listening classes and presented it to us, and the effort to convert traditional methods into digital ones to create a solid methodology for learning English through a coding-based app was commendable.
 
