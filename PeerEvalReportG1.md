@@ -18,6 +18,8 @@
 |Category|Alignment|Integration|Engagement|Stimulation|Support|Accessibility|Integration|Autonomy|Adaptability|Presenation||
 |Mean|5.56|5.31|5.13|5.37|5.38|5.19|5.31|5.0|5.19|5.31|**5.3** (0.63)|
 
++ In the peer evaluations below, Group 1 showed strengths particularly in "Support," "Accessibility," and "Presentation," achieving high mean scores. These strengths indicate that your lesson plan effectively supported students' needs, was accessible, and presented in an engaging manner, enhancing, for example, the listening skills (focus) assisted by their code-based language application.
+  
 ![Score summary](https://github.com/MK316/Spring2024/blob/main/DLTESOL/data/G1-score.png)
 
 ## [2] Essay feedback 1: _What do you think are the most valuable lessons from that group's presentation?_
