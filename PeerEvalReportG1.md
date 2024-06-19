@@ -2,13 +2,13 @@
 
 + First and foremost, I want to commend you all on the innovative and engaging way you integrated technology into language learning. The use of various apps to make lessons interactive and fun has clearly made a positive impact. Your approach to scaffolding was particularly effective, providing clear guidance and making it easier for students to engage with the material. I also appreciated that your group started the design focusing on listening classes and presented it to us, and the effort to convert traditional methods into digital ones to create a solid methodology for learning English through a coding-based app was commendable.
 
-(MK316: Personally, it was great to see you scaffolding **prompts** for student activities when asking them to use generative AIs. This is an important aspect when teachers employ generative AI tools in their classrooms. Also, considering it was the first presentation and there might have been a lack of time, thank you 😍 for preparing so well.👍👍👍)
-
 + However, there were some insightful suggestions that could further enhance your teaching approach. For instance, it was noted that having students read questions aloud during presentations could increase engagement and confidence. While the nervousness of a mock lesson might have affected this aspect, it's something to consider incorporating more deliberately in future sessions. It was also suggested that showing how students can apply and participate with the apps during the lessons could be more illustrative. Furthermore, providing more concrete online feedback mechanisms post-class would support continuous learning and engagement.
 
 + The overall structure of the lesson was appreciated, though there were points raised about the lesson not entirely breaking away from traditional formats and possibly missing out on leveraging the full strengths of online education. Additionally, maintaining immersion without the teacher having to navigate away from the main content was highlighted as an area for improvement.
 
 + In summary, your group did an excellent job at demonstrating the potential of AI and coding in education. There is always room for growth, and the constructive feedback provided is invaluable for refining your teaching strategies. Keep exploring and innovating—your dedication is paving the way for exciting educational experiences. Great job, Group 1!
+
+(😍 MK316 note: Personally, it was great to see you scaffolding **prompts** for student activities when asking them to use generative AIs. This is an important aspect when teachers employ generative AI tools in their classrooms. Also, considering it was the first presentation and there might have been a lack of time, thank you for preparing so well.👍👍👍)
 
 ## [1] Quantitative summary of each aspect (Q1~Q10)
 
